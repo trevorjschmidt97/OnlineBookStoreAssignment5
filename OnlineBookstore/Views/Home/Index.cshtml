@@ -1,0 +1,32 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@model IQueryable<Book>
+
+<header>
+    <h1>Welcome to Trevor Schmidt's Bookstore</h1>
+</header>
+<body>
+
+    @*List All Books from passed in repository*@
+    @foreach (var b in Model)
+    {
+        <div class="card card-outline-primary m-1 p-1">
+            <div class="bg-faded p-1">
+                <h4>
+                    @b.Title
+                </h4>
+                <h4>
+                    <span class="badge badge-pill badge-primary" style="float:right">
+                        <small>$@b.Price</small>
+                    </span>
+                </h4>
+                <h7>
+                    Author: @b.AuthorFirstName @b.AuthorLastName <br />
+                    Category and Classification: @b.Category / @b.Classification<br />
+                    Publisher: @b.Publisher
+                </h7>
+            </div>
+        </div>
+    }
+</body>
