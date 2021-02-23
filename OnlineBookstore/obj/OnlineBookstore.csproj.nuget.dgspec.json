@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/trevorschmidt/Projects/OnlineBookstore/OnlineBookstore/OnlineBookstore.csproj": {}
+    "/Users/trevorschmidt/Projects/OnlineBookstore/OnlineBookStoreAssignment5/OnlineBookstore/OnlineBookstore.csproj": {}
   },
   "projects": {
-    "/Users/trevorschmidt/Projects/OnlineBookstore/OnlineBookstore/OnlineBookstore.csproj": {
+    "/Users/trevorschmidt/Projects/OnlineBookstore/OnlineBookStoreAssignment5/OnlineBookstore/OnlineBookstore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/trevorschmidt/Projects/OnlineBookstore/OnlineBookstore/OnlineBookstore.csproj",
+        "projectUniqueName": "/Users/trevorschmidt/Projects/OnlineBookstore/OnlineBookStoreAssignment5/OnlineBookstore/OnlineBookstore.csproj",
         "projectName": "OnlineBookstore",
-        "projectPath": "/Users/trevorschmidt/Projects/OnlineBookstore/OnlineBookstore/OnlineBookstore.csproj",
+        "projectPath": "/Users/trevorschmidt/Projects/OnlineBookstore/OnlineBookStoreAssignment5/OnlineBookstore/OnlineBookstore.csproj",
         "packagesPath": "/Users/trevorschmidt/.nuget/packages/",
-        "outputPath": "/Users/trevorschmidt/Projects/OnlineBookstore/OnlineBookstore/obj/",
+        "outputPath": "/Users/trevorschmidt/Projects/OnlineBookstore/OnlineBookStoreAssignment5/OnlineBookstore/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/trevorschmidt/.nuget/NuGet/NuGet.Config"

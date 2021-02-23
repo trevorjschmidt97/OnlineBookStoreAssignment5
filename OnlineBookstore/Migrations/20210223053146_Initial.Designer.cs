@@ -8,7 +8,7 @@ using OnlineBookstore.Models;
 namespace OnlineBookstore.Migrations
 {
     [DbContext(typeof(BookStoreDbContext))]
-    [Migration("20210223023051_Initial")]
+    [Migration("20210223053146_Initial")]
     partial class Initial
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -37,6 +37,9 @@ namespace OnlineBookstore.Migrations
 
                     b.Property<string>("ISBN")
                         .HasColumnType("TEXT");
+
+                    b.Property<int>("Pages")
+                        .HasColumnType("INTEGER");
 
                     b.Property<float>("Price")
                         .HasColumnType("REAL");

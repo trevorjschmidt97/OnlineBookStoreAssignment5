@@ -19,7 +19,8 @@ namespace OnlineBookstore.Migrations
                     ISBN = table.Column<string>(nullable: true),
                     Price = table.Column<float>(nullable: false),
                     Classification = table.Column<string>(nullable: true),
-                    Category = table.Column<string>(nullable: true)
+                    Category = table.Column<string>(nullable: true),
+                    Pages = table.Column<int>(nullable: false)
                 },
                 constraints: table =>
                 {

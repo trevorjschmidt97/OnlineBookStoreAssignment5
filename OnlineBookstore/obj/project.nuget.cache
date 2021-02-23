@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NkRmVB5J4VYN4/TXlDTaZ4SCGhH13VeFjVx8ijz7522Bz8TfotwoEhM9JJD+OVDNCcK7EonEtjfvzQwwWr7Ouw==",
+  "dgSpecHash": "oaUNJxpQ/EtlvcC9aNCVBayDv7iVJh6l8EFRvg2qJPeAyHZ6DXz6YEHiDcOrFt871xwEd9kZE0nd9PDfW6oaBQ==",
   "success": true,
-  "projectFilePath": "/Users/trevorschmidt/Projects/OnlineBookstore/OnlineBookstore/OnlineBookstore.csproj",
+  "projectFilePath": "/Users/trevorschmidt/Projects/OnlineBookstore/OnlineBookStoreAssignment5/OnlineBookstore/OnlineBookstore.csproj",
   "expectedPackageFiles": [
     "/Users/trevorschmidt/.nuget/packages/microsoft.bcl.asyncinterfaces/1.1.1/microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "/Users/trevorschmidt/.nuget/packages/microsoft.bcl.hashcode/1.1.1/microsoft.bcl.hashcode.1.1.1.nupkg.sha512",

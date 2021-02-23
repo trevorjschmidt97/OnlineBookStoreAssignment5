@@ -12,11 +12,31 @@
     </div>
     <div class="row m-1 p-1">
         <div id="categories" class="col-3">
-            Put something useful here later
+            <h1>Read a Book at Trevor's Online Book Store</h1>
         </div>
-        <div class="col-9">
+        <div class="col-6">
             @RenderBody()
         </div>
     </div>
+
+
+    @*Here are the extras, I made a footer that is sticky, small, centered, and with 50% opaque black text color*@
+    <style>
+        .footer {
+            position: fixed;
+            left: 0;
+            bottom: 0;
+            width: 100%;
+            background: white;
+            color: white;
+            text-align: center;
+        }
+    </style>
+
+    
+    <footer class="footer small text-center text-black-50">Copyright © Trevor Schmidt 2021</footer>
+    <br />
 </body>
+
+
 </html>
