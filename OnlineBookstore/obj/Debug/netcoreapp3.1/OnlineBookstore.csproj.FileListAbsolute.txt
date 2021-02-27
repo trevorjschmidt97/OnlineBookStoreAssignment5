@@ -152,3 +152,5 @@
 /Users/trevorschmidt/Projects/OnlineBookstore/OnlineBookStoreAssignment5/OnlineBookstore/obj/Debug/netcoreapp3.1/OnlineBookstore.dll
 /Users/trevorschmidt/Projects/OnlineBookstore/OnlineBookStoreAssignment5/OnlineBookstore/obj/Debug/netcoreapp3.1/OnlineBookstore.pdb
 /Users/trevorschmidt/Projects/OnlineBookstore/OnlineBookStoreAssignment5/OnlineBookstore/obj/Debug/netcoreapp3.1/OnlineBookstore.genruntimeconfig.cache
+/Users/trevorschmidt/Projects/OnlineBookstore/OnlineBookStoreAssignment5/OnlineBookstore/obj/Debug/netcoreapp3.1/Razor/Views/Shared/BookSummary.cshtml.g.cs
+/Users/trevorschmidt/Projects/OnlineBookstore/OnlineBookStoreAssignment5/OnlineBookstore/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Components/NavigationMenu/Default.cshtml.g.cs
