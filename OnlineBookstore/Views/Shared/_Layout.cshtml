@@ -5,14 +5,26 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>@ViewData["Title"] - OnlineBookstore</title>
     <link href="/lib/twitter-bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="/lib/font-awesome/css/all.min.css" rel="stylesheet" />
 </head>
 <body>
+
+    @*Header*@
     <div class="bg-dark text-white p-2">
-        <span class="navbar-brand ml-2">BOOKS STORE</span>
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-3 navbar-brand">BOOKS STORE</div>
+                <div class="col-6 text-right">
+                    <vc:cart-summary/>
+                </div>
+            </div>
+        </div>
     </div>
+
+    @*Main Body*@
     <div class="row m-1 p-1">
         <div id="categories" class="col-3">
-            <h1>Read a Book at Trevor's Online Book Store</h1>
+            <h1 class="text-center">Read a Book at Trevor's Online Book Store</h1>
             <vc:navigation-menu />
         </div>
         <div class="col-6">
@@ -21,7 +33,7 @@
     </div>
 
 
-    @*Here are the extras, I made a footer that is sticky, small, centered, and with 50% opaque black text color*@
+    @*Footer*@
     <style>
         .footer {
             position: fixed;
@@ -33,10 +45,9 @@
             text-align: center;
         }
     </style>
-
-    
     <footer class="footer small text-center text-black-50">Copyright © Trevor Schmidt 2021</footer>
     <br />
+
 </body>
 
 

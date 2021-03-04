@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "BSN8CrT6Hw1wptVjORuEcSzKUq0VqfZdYn6AEL5ncCAd0vMIwooS304JK7AlSKNsDiHTIxcNeNFldWe/FTo4Bw==",
+  "dgSpecHash": "naDohfXjJZ6CdK86GRz25aVGNYCyoSHsvo1yDdZXHrhYeIN0SGv31GqkZWmRrZWFQOwuh0K4gFoFfq0jeM5YTA==",
   "success": true,
   "projectFilePath": "/Users/trevorschmidt/Projects/OnlineBookstore/OnlineBookStoreAssignment5/OnlineBookstore/OnlineBookstore.csproj",
   "expectedPackageFiles": [
+    "/Users/trevorschmidt/.nuget/packages/font.awesome/5.12.0/font.awesome.5.12.0.nupkg.sha512",
+    "/Users/trevorschmidt/.nuget/packages/fontawesome/4.7.0/fontawesome.4.7.0.nupkg.sha512",
     "/Users/trevorschmidt/.nuget/packages/microsoft.bcl.asyncinterfaces/1.1.1/microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "/Users/trevorschmidt/.nuget/packages/microsoft.bcl.hashcode/1.1.1/microsoft.bcl.hashcode.1.1.1.nupkg.sha512",
     "/Users/trevorschmidt/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
