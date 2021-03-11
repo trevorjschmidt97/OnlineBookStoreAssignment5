@@ -1284,7 +1284,7 @@
       "outputPath": "/Users/trevorschmidt/Projects/OnlineBookstore/OnlineBookStoreAssignment5/OnlineBookstore/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/trevorschmidt/.nuget/NuGet/NuGet.Config"
+        "/Users/trevorschmidt/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
